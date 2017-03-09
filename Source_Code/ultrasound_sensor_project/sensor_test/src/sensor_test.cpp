@@ -225,7 +225,7 @@ void ultPW()
 			LPC_TIM1->PR   = getPrescalarForUs(PCLK_TIMER1);      /* Prescalar for 1us */
 			LPC_TIM1->TCR  |= (1 << SBIT_CNTEN);                    /* Start timer by setting the Counter Enable*/
 
-			//sensor trigger
+			//sensor trigger pin 20 (P1_31) connected pin 4 on HRLV Maxsonar sensor
 			LPC_GPIO1 -> FIODIR |= (1 << 31);
 			LPC_GPIO1 -> FIOCLR = (1 << 31);
 			LPC_GPIO1 -> FIOSET = (1 << 31);
@@ -236,7 +236,7 @@ void ultPW()
 			{
 				flag2 = false;
 
-				//setting up GPIO pin as input
+				//setting up GPIO pin P2_11 as input for interrupts. Pin 52 connected to pin 2 of HRLV Maxsonar sensor 
 				LPC_GPIO2 -> FIODIR &= ~(1 << 11);
 				LPC_GPIOINT -> IO2IntClr |= (1 << 11);	//clear interrupt
 				LPC_GPIOINT -> IO2IntEnR |= (1 << 11);	//enable rising edge interrupt
