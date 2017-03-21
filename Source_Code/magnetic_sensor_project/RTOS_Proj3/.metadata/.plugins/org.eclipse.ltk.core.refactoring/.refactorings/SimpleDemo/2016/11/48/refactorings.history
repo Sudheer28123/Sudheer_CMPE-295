@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AGV/Debug/SimpleDemo.axf&apos; to &apos;AGV.axf&apos;" description="Rename resource &apos;SimpleDemo.axf&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Debug/SimpleDemo.axf" name="AGV.axf" stamp="1480186864005" updateReferences="true"/>
+</session>
