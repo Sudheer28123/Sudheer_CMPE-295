@@ -1,0 +1,24 @@
+11:02:08 **** Build of configuration Debug for project AGV ****
+make -r all 
+Building file: ../cr_startup_lpc17.c
+Invoking: MCU C Compiler
+arm-none-eabi-gcc -DDEBUG -D__USE_CMSIS=CMSISv1p30_LPC17xx -D__CODE_RED -D__REDLIB__ -I"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/AGV" -I"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/CMSISv1p30_LPC17xx/inc" -I"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/FreeRTOS_Library/include" -I"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/FreeRTOS_Library/portable" -O0 -g3 -fsigned-char -c -fmessage-length=0 -fno-builtin -ffunction-sections -mcpu=cortex-m3 -mthumb -D__REDLIB__ -specs=redlib.specs -MMD -MP -MF"cr_startup_lpc17.d" -MT"cr_startup_lpc17.o" -MT"cr_startup_lpc17.d" -o "cr_startup_lpc17.o" "../cr_startup_lpc17.c"
+../cr_startup_lpc17.c:128:10: warning: taking address of expression of type 'void'
+  (void *)&_vStackTop,     // The initial stack pointer
+          ^
+Finished building: ../cr_startup_lpc17.c
+ 
+Building file: ../main.c
+Invoking: MCU C Compiler
+arm-none-eabi-gcc -DDEBUG -D__USE_CMSIS=CMSISv1p30_LPC17xx -D__CODE_RED -D__REDLIB__ -I"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/AGV" -I"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/CMSISv1p30_LPC17xx/inc" -I"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/FreeRTOS_Library/include" -I"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/FreeRTOS_Library/portable" -O0 -g3 -fsigned-char -c -fmessage-length=0 -fno-builtin -ffunction-sections -mcpu=cortex-m3 -mthumb -D__REDLIB__ -specs=redlib.specs -MMD -MP -MF"main.d" -MT"main.o" -MT"main.d" -o "main.o" "../main.c"
+Finished building: ../main.c
+ 
+Building target: AGV.axf
+Invoking: MCU Linker
+arm-none-eabi-gcc -nostdlib -L"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/CMSISv1p30_LPC17xx/Debug" -L"/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/FreeRTOS_Library/Debug" -Xlinker --gc-sections -Xlinker -Map=AGV.map -mcpu=cortex-m3 -mthumb -T "AGV_Debug.ld" -o "AGV.axf"  ./cr_startup_lpc17.o ./main.o   -lCMSISv1p30_LPC17xx -lFreeRTOS_Library
+/Applications/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/bin/ld: cannot find -lFreeRTOS_Library
+collect2: error: ld returned 1 exit status
+make: *** [AGV.axf] Error 1
+
+11:02:09 Build Finished (took 336ms)
+

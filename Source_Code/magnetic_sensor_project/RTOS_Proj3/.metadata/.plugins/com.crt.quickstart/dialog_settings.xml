@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/FreeRTOS-Demo-and-Docs-for-the-LPCXpresso-LPC1768/SourceCode/FreeRTOS-simple-demo-for-LPCXpresso.zip"/>
+		</list>
+	</section>
+	<section name="com.crt.quickstart.views.wizards.examples.QSExampleSelectionPage">
+		<item value="/Users/AakarshReddy/Documents/Sudheer/Sem3/295A/RTOS_Proj3/FreeRTOS-Demo-and-Docs-for-the-LPCXpresso-LPC1768/SourceCode" key="dirname"/>
+	</section>
+</section>
