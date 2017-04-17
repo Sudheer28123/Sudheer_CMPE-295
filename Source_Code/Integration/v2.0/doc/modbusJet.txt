@@ -1,0 +1,12 @@
+To compile Jetosn Project
+AG 
+Feb. 20, 2017
+To compile Jetosn Project
+
+1. Copy modbus_jetson.tar.gz folder on jetson.
+2. Extract it (tar -xzf modbus_jetson.tar.gz)
+3. cd modbus_jetson
+4. gcc modbus.c modbus-data.c modbus-rtu.c main.c -o a.out
+5. a.out binary wll be generated
+
+(End) 
