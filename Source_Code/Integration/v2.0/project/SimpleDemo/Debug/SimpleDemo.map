@@ -1,0 +1,1974 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                              ./ultsensor.o (SystemCoreClock)
+C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+                              ./cr_startup_lpc17.o (vPortSVCHandler)
+C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+                              ./main.o (xTaskGenericCreate)
+C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+                              C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o) (pvPortMalloc)
+C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+                              C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o) (vListInitialise)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o)
+                              ./src/mbrtu.o (__assertion_failed)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__ciob.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o) (__Ciob)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_appexit.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o) (__sys_appexit)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+                              ./src/mbfuncother.o (memcpy)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+                              C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o) (memset)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o) (__flsbuf)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_fflush.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o) (_fflush)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o) (_Cwritebuf)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o) (_Csys_alloc)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+                              ./main.o (printf)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fputs.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o) (fputs)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fseek.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o) (fseek)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(ftell.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fseek.o) (ftell)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o) (__vfprintf)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strlen.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o) (strlen)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strncpy.o)
+                              C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o) (strncpy)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__init_alloc.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o) (__heaps)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_sbrk.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o) (_sbrk)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_frexpl.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o) (_frexpl)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_ldexpl.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o) (_ldexpl)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(errno.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(ftell.o) (errno)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_check_heap.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_sbrk.o) (__check_heap_overflow)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_hugeval.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_ldexpl.o) (__huge_vall)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o) (__aeabi_dmul)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_flen.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o) (__sys_flen)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_istty.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o) (__sys_istty)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_seek.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o) (__sys_seek)
+c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_write.o)
+                              c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o) (__sys_write)
+
+Allocating common symbols
+Common symbol       size              file
+
+pxMBFrameCBTransmitterEmpty
+                    0x4               ./src/mb.o
+pxMBPortCBTimerExpired
+                    0x4               ./src/mb.o
+ReadChar            0x1               ./src/modbus.o
+ucRTUBuf            0x100             ./src/mbrtu.o
+pxMBFrameCBByteReceived
+                    0x4               ./src/mb.o
+pxMBFrameCBTransmitFSMCur
+                    0x4               ./src/mb.o
+pxMBFrameCBReceiveFSMCur
+                    0x4               ./src/mb.o
+Ult                 0xc               ./main.o
+gusTimer3_5         0x2               ./src/porttimer.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000000       0x21 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x00000000       0x13 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x00000000       0x18 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x11 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x880 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x00000000       0x3f ./src/cr_startup_lpc175x_6x.o
+ .debug_str     0x00000000     0x24fa ./src/cr_startup_lpc175x_6x.o
+ .comment       0x00000000       0x6f ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .crp           0x00000000        0x4 ./src/crp.o
+ .debug_info    0x00000000       0x3f ./src/crp.o
+ .debug_abbrev  0x00000000       0x36 ./src/crp.o
+ .debug_aranges
+                0x00000000       0x18 ./src/crp.o
+ .debug_macro   0x00000000       0x1a ./src/crp.o
+ .debug_macro   0x00000000      0x880 ./src/crp.o
+ .debug_macro   0x00000000       0x34 ./src/crp.o
+ .debug_line    0x00000000       0x75 ./src/crp.o
+ .debug_str     0x00000000     0x25d1 ./src/crp.o
+ .comment       0x00000000       0x6f ./src/crp.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/crp.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mb.o
+ .text          0x00000000        0x0 ./src/mb.o
+ .text.eMBRegisterCB
+                0x00000000       0xcc ./src/mb.o
+ .text.eMBClose
+                0x00000000       0x38 ./src/mb.o
+ .text.eMBDisable
+                0x00000000       0x44 ./src/mb.o
+ .debug_macro   0x00000000      0x880 ./src/mb.o
+ .group         0x00000000        0x8 ./src/mbcrc.o
+ .group         0x00000000        0x8 ./src/mbcrc.o
+ .group         0x00000000        0x8 ./src/mbcrc.o
+ .group         0x00000000        0x8 ./src/mbcrc.o
+ .group         0x00000000        0x8 ./src/mbcrc.o
+ .group         0x00000000        0x8 ./src/mbcrc.o
+ .text          0x00000000        0x0 ./src/mbcrc.o
+ .data          0x00000000        0x0 ./src/mbcrc.o
+ .bss           0x00000000        0x0 ./src/mbcrc.o
+ .debug_macro   0x00000000      0x880 ./src/mbcrc.o
+ .debug_macro   0x00000000       0x10 ./src/mbcrc.o
+ .debug_macro   0x00000000      0x12d ./src/mbcrc.o
+ .debug_macro   0x00000000      0x5b2 ./src/mbcrc.o
+ .debug_macro   0x00000000       0x2e ./src/mbcrc.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfunccoils.o
+ .text          0x00000000        0x0 ./src/mbfunccoils.o
+ .data          0x00000000        0x0 ./src/mbfunccoils.o
+ .bss           0x00000000        0x0 ./src/mbfunccoils.o
+ .debug_macro   0x00000000      0x880 ./src/mbfunccoils.o
+ .debug_macro   0x00000000       0x10 ./src/mbfunccoils.o
+ .debug_macro   0x00000000      0x12d ./src/mbfunccoils.o
+ .debug_macro   0x00000000       0x28 ./src/mbfunccoils.o
+ .debug_macro   0x00000000       0x16 ./src/mbfunccoils.o
+ .debug_macro   0x00000000      0x5b2 ./src/mbfunccoils.o
+ .debug_macro   0x00000000       0x2e ./src/mbfunccoils.o
+ .debug_macro   0x00000000       0x9a ./src/mbfunccoils.o
+ .debug_macro   0x00000000       0x7c ./src/mbfunccoils.o
+ .debug_macro   0x00000000       0x22 ./src/mbfunccoils.o
+ .debug_macro   0x00000000       0x6a ./src/mbfunccoils.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncdisc.o
+ .text          0x00000000        0x0 ./src/mbfuncdisc.o
+ .data          0x00000000        0x0 ./src/mbfuncdisc.o
+ .bss           0x00000000        0x0 ./src/mbfuncdisc.o
+ .debug_macro   0x00000000      0x880 ./src/mbfuncdisc.o
+ .debug_macro   0x00000000       0x10 ./src/mbfuncdisc.o
+ .debug_macro   0x00000000      0x12d ./src/mbfuncdisc.o
+ .debug_macro   0x00000000       0x28 ./src/mbfuncdisc.o
+ .debug_macro   0x00000000       0x16 ./src/mbfuncdisc.o
+ .debug_macro   0x00000000      0x5b2 ./src/mbfuncdisc.o
+ .debug_macro   0x00000000       0x2e ./src/mbfuncdisc.o
+ .debug_macro   0x00000000       0x9a ./src/mbfuncdisc.o
+ .debug_macro   0x00000000       0x7c ./src/mbfuncdisc.o
+ .debug_macro   0x00000000       0x22 ./src/mbfuncdisc.o
+ .debug_macro   0x00000000       0x6a ./src/mbfuncdisc.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncinput.o
+ .text          0x00000000        0x0 ./src/mbfuncinput.o
+ .data          0x00000000        0x0 ./src/mbfuncinput.o
+ .bss           0x00000000        0x0 ./src/mbfuncinput.o
+ .debug_macro   0x00000000      0x880 ./src/mbfuncinput.o
+ .debug_macro   0x00000000       0x10 ./src/mbfuncinput.o
+ .debug_macro   0x00000000      0x12d ./src/mbfuncinput.o
+ .debug_macro   0x00000000       0x28 ./src/mbfuncinput.o
+ .debug_macro   0x00000000       0x16 ./src/mbfuncinput.o
+ .debug_macro   0x00000000      0x5b2 ./src/mbfuncinput.o
+ .debug_macro   0x00000000       0x2e ./src/mbfuncinput.o
+ .debug_macro   0x00000000       0x9a ./src/mbfuncinput.o
+ .debug_macro   0x00000000       0x7c ./src/mbfuncinput.o
+ .debug_macro   0x00000000       0x22 ./src/mbfuncinput.o
+ .debug_macro   0x00000000       0x6a ./src/mbfuncinput.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbfuncother.o
+ .text          0x00000000        0x0 ./src/mbfuncother.o
+ .data          0x00000000        0x0 ./src/mbfuncother.o
+ .text.eMBSetSlaveID
+                0x00000000       0x9c ./src/mbfuncother.o
+ .debug_macro   0x00000000      0x880 ./src/mbfuncother.o
+ .debug_macro   0x00000000       0x10 ./src/mbfuncother.o
+ .debug_macro   0x00000000      0x12d ./src/mbfuncother.o
+ .debug_macro   0x00000000       0x28 ./src/mbfuncother.o
+ .debug_macro   0x00000000       0x16 ./src/mbfuncother.o
+ .debug_macro   0x00000000      0x5b2 ./src/mbfuncother.o
+ .debug_macro   0x00000000       0x2e ./src/mbfuncother.o
+ .debug_macro   0x00000000       0x9a ./src/mbfuncother.o
+ .debug_macro   0x00000000       0x7c ./src/mbfuncother.o
+ .debug_macro   0x00000000       0x22 ./src/mbfuncother.o
+ .debug_macro   0x00000000       0x6a ./src/mbfuncother.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbrtu.o
+ .text          0x00000000        0x0 ./src/mbrtu.o
+ .data          0x00000000        0x6 ./src/mbrtu.o
+ .debug_macro   0x00000000      0x880 ./src/mbrtu.o
+ .debug_macro   0x00000000       0x10 ./src/mbrtu.o
+ .debug_macro   0x00000000      0x12d ./src/mbrtu.o
+ .debug_macro   0x00000000       0x28 ./src/mbrtu.o
+ .debug_macro   0x00000000       0x16 ./src/mbrtu.o
+ .debug_macro   0x00000000      0x5b2 ./src/mbrtu.o
+ .debug_macro   0x00000000       0x2e ./src/mbrtu.o
+ .debug_macro   0x00000000       0x9a ./src/mbrtu.o
+ .debug_macro   0x00000000       0x7c ./src/mbrtu.o
+ .debug_macro   0x00000000       0x22 ./src/mbrtu.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/mbutils.o
+ .text          0x00000000        0x0 ./src/mbutils.o
+ .data          0x00000000        0x0 ./src/mbutils.o
+ .bss           0x00000000        0x0 ./src/mbutils.o
+ .text.delay    0x00000000       0x5c ./src/mbutils.o
+ .rodata        0x00000000       0x24 ./src/mbutils.o
+ .text.xMBUtilSetBits
+                0x00000000       0xcc ./src/mbutils.o
+ .text.xMBUtilGetBits
+                0x00000000       0x74 ./src/mbutils.o
+ .debug_macro   0x00000000      0x880 ./src/mbutils.o
+ .debug_macro   0x00000000       0x10 ./src/mbutils.o
+ .debug_macro   0x00000000      0x12d ./src/mbutils.o
+ .debug_macro   0x00000000       0x28 ./src/mbutils.o
+ .debug_macro   0x00000000       0x16 ./src/mbutils.o
+ .debug_macro   0x00000000      0x5b2 ./src/mbutils.o
+ .debug_macro   0x00000000       0x2e ./src/mbutils.o
+ .debug_macro   0x00000000       0x9a ./src/mbutils.o
+ .debug_macro   0x00000000       0x7c ./src/mbutils.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/modbus.o
+ .text          0x00000000        0x0 ./src/modbus.o
+ .data          0x00000000        0x0 ./src/modbus.o
+ .bss           0x00000000        0x0 ./src/modbus.o
+ .debug_info    0x00000000       0x9f ./src/modbus.o
+ .debug_abbrev  0x00000000       0x52 ./src/modbus.o
+ .debug_aranges
+                0x00000000       0x18 ./src/modbus.o
+ .debug_macro   0x00000000       0xe7 ./src/modbus.o
+ .debug_macro   0x00000000      0x880 ./src/modbus.o
+ .debug_macro   0x00000000       0x1c ./src/modbus.o
+ .debug_macro   0x00000000       0x22 ./src/modbus.o
+ .debug_macro   0x00000000       0x10 ./src/modbus.o
+ .debug_macro   0x00000000      0x12d ./src/modbus.o
+ .debug_macro   0x00000000      0x5b2 ./src/modbus.o
+ .debug_macro   0x00000000      0x7b7 ./src/modbus.o
+ .debug_macro   0x00000000      0x2c7 ./src/modbus.o
+ .debug_macro   0x00000000       0x82 ./src/modbus.o
+ .debug_macro   0x00000000       0xa0 ./src/modbus.o
+ .debug_macro   0x00000000       0x22 ./src/modbus.o
+ .debug_macro   0x00000000       0xc4 ./src/modbus.o
+ .debug_macro   0x00000000       0x52 ./src/modbus.o
+ .debug_macro   0x00000000       0x1c ./src/modbus.o
+ .debug_macro   0x00000000       0x22 ./src/modbus.o
+ .debug_line    0x00000000      0x2be ./src/modbus.o
+ .debug_str     0x00000000     0x89bf ./src/modbus.o
+ .comment       0x00000000       0x6f ./src/modbus.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/modbus.o
+ COMMON         0x00000000        0x1 ./src/modbus.o
+ .group         0x00000000        0x8 ./src/portevent.o
+ .group         0x00000000        0x8 ./src/portevent.o
+ .group         0x00000000        0x8 ./src/portevent.o
+ .group         0x00000000        0x8 ./src/portevent.o
+ .group         0x00000000        0x8 ./src/portevent.o
+ .group         0x00000000        0x8 ./src/portevent.o
+ .group         0x00000000        0x8 ./src/portevent.o
+ .group         0x00000000        0x8 ./src/portevent.o
+ .text          0x00000000        0x0 ./src/portevent.o
+ .data          0x00000000        0x0 ./src/portevent.o
+ .debug_macro   0x00000000      0x880 ./src/portevent.o
+ .debug_macro   0x00000000       0x10 ./src/portevent.o
+ .debug_macro   0x00000000      0x12d ./src/portevent.o
+ .debug_macro   0x00000000       0xa0 ./src/portevent.o
+ .debug_macro   0x00000000       0x16 ./src/portevent.o
+ .debug_macro   0x00000000      0x5b2 ./src/portevent.o
+ .debug_macro   0x00000000       0x2e ./src/portevent.o
+ .debug_macro   0x00000000       0x7c ./src/portevent.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/portserial.o
+ .text          0x00000000        0x0 ./src/portserial.o
+ .data          0x00000000        0x0 ./src/portserial.o
+ .bss           0x00000000        0x8 ./src/portserial.o
+ .rodata        0x00000000        0x4 ./src/portserial.o
+ .text.prvvUARTISR
+                0x00000000       0x28 ./src/portserial.o
+ .debug_macro   0x00000000      0x880 ./src/portserial.o
+ .debug_macro   0x00000000       0x10 ./src/portserial.o
+ .debug_macro   0x00000000       0x1c ./src/portserial.o
+ .debug_macro   0x00000000      0x12d ./src/portserial.o
+ .debug_macro   0x00000000      0x5b2 ./src/portserial.o
+ .debug_macro   0x00000000       0x2e ./src/portserial.o
+ .debug_macro   0x00000000       0xa0 ./src/portserial.o
+ .debug_macro   0x00000000       0x7c ./src/portserial.o
+ .debug_macro   0x00000000       0x1c ./src/portserial.o
+ .debug_macro   0x00000000      0x7d5 ./src/portserial.o
+ .debug_macro   0x00000000      0x2c7 ./src/portserial.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .group         0x00000000        0x8 ./src/porttimer.o
+ .text          0x00000000        0x0 ./src/porttimer.o
+ .data          0x00000000        0x0 ./src/porttimer.o
+ .bss           0x00000000        0x0 ./src/porttimer.o
+ .debug_macro   0x00000000      0x880 ./src/porttimer.o
+ .debug_macro   0x00000000       0x10 ./src/porttimer.o
+ .debug_macro   0x00000000       0x1c ./src/porttimer.o
+ .debug_macro   0x00000000      0x12d ./src/porttimer.o
+ .debug_macro   0x00000000      0x5b2 ./src/porttimer.o
+ .debug_macro   0x00000000       0x2e ./src/porttimer.o
+ .debug_macro   0x00000000       0xa0 ./src/porttimer.o
+ .debug_macro   0x00000000       0x7c ./src/porttimer.o
+ .debug_macro   0x00000000       0x1c ./src/porttimer.o
+ .debug_macro   0x00000000      0x7d5 ./src/porttimer.o
+ .debug_macro   0x00000000      0x2c7 ./src/porttimer.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./include/mbfuncholding.o
+ .text          0x00000000        0x0 ./include/mbfuncholding.o
+ .data          0x00000000        0x0 ./include/mbfuncholding.o
+ .bss           0x00000000        0x0 ./include/mbfuncholding.o
+ .debug_macro   0x00000000      0x880 ./include/mbfuncholding.o
+ .debug_macro   0x00000000       0x10 ./include/mbfuncholding.o
+ .debug_macro   0x00000000      0x12d ./include/mbfuncholding.o
+ .debug_macro   0x00000000       0x28 ./include/mbfuncholding.o
+ .debug_macro   0x00000000       0x16 ./include/mbfuncholding.o
+ .debug_macro   0x00000000      0x5b2 ./include/mbfuncholding.o
+ .debug_macro   0x00000000       0x2e ./include/mbfuncholding.o
+ .debug_macro   0x00000000       0x9a ./include/mbfuncholding.o
+ .debug_macro   0x00000000       0x7c ./include/mbfuncholding.o
+ .debug_macro   0x00000000       0x22 ./include/mbfuncholding.o
+ .debug_macro   0x00000000       0x6a ./include/mbfuncholding.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .group         0x00000000        0x8 ./Sensors.o
+ .text          0x00000000        0x0 ./Sensors.o
+ .data          0x00000000        0x0 ./Sensors.o
+ .bss           0x00000000        0x0 ./Sensors.o
+ .debug_macro   0x00000000      0x880 ./Sensors.o
+ .debug_macro   0x00000000       0x10 ./Sensors.o
+ .debug_macro   0x00000000      0x12d ./Sensors.o
+ .debug_macro   0x00000000      0x5b2 ./Sensors.o
+ .debug_macro   0x00000000       0x1c ./Sensors.o
+ .debug_macro   0x00000000      0x7d5 ./Sensors.o
+ .debug_macro   0x00000000      0x2c7 ./Sensors.o
+ .debug_macro   0x00000000       0x9a ./Sensors.o
+ .group         0x00000000        0x8 ./cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./cr_startup_lpc17.o
+ .text          0x00000000        0x0 ./cr_startup_lpc17.o
+ .data          0x00000000        0x0 ./cr_startup_lpc17.o
+ .bss           0x00000000        0x0 ./cr_startup_lpc17.o
+ .text.SVCall_Handler
+                0x00000000        0x8 ./cr_startup_lpc17.o
+ .text.PendSV_Handler
+                0x00000000        0x8 ./cr_startup_lpc17.o
+ .text.SysTick_Handler
+                0x00000000        0x8 ./cr_startup_lpc17.o
+ .debug_macro   0x00000000      0x880 ./cr_startup_lpc17.o
+ .debug_macro   0x00000000       0x10 ./cr_startup_lpc17.o
+ .debug_macro   0x00000000      0x12d ./cr_startup_lpc17.o
+ .debug_macro   0x00000000      0x5b2 ./cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .text          0x00000000        0x0 ./main.o
+ .debug_macro   0x00000000      0x880 ./main.o
+ .debug_macro   0x00000000       0x10 ./main.o
+ .debug_macro   0x00000000      0x12d ./main.o
+ .debug_macro   0x00000000       0x16 ./main.o
+ .debug_macro   0x00000000       0x46 ./main.o
+ .debug_macro   0x00000000       0x1c ./main.o
+ .debug_macro   0x00000000       0x22 ./main.o
+ .debug_macro   0x00000000      0x5b2 ./main.o
+ .debug_macro   0x00000000      0x7b7 ./main.o
+ .debug_macro   0x00000000      0x2c7 ./main.o
+ .debug_macro   0x00000000       0xca ./main.o
+ .debug_macro   0x00000000       0xa3 ./main.o
+ .debug_macro   0x00000000       0x12 ./main.o
+ .debug_macro   0x00000000       0x1e ./main.o
+ .debug_macro   0x00000000      0x15b ./main.o
+ .debug_macro   0x00000000       0x42 ./main.o
+ .debug_macro   0x00000000       0x56 ./main.o
+ .debug_macro   0x00000000       0x9a ./main.o
+ .debug_macro   0x00000000       0x40 ./main.o
+ .debug_macro   0x00000000       0x16 ./main.o
+ .debug_macro   0x00000000       0x2e ./main.o
+ .debug_macro   0x00000000       0x7c ./main.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .group         0x00000000        0x8 ./ultsensor.o
+ .text          0x00000000        0x0 ./ultsensor.o
+ .data          0x00000000        0x0 ./ultsensor.o
+ .bss           0x00000000        0x0 ./ultsensor.o
+ .debug_macro   0x00000000      0x880 ./ultsensor.o
+ .debug_macro   0x00000000       0x10 ./ultsensor.o
+ .debug_macro   0x00000000      0x12d ./ultsensor.o
+ .debug_macro   0x00000000      0x5b2 ./ultsensor.o
+ .debug_macro   0x00000000       0x16 ./ultsensor.o
+ .debug_macro   0x00000000       0x46 ./ultsensor.o
+ .debug_macro   0x00000000       0x1c ./ultsensor.o
+ .debug_macro   0x00000000      0x7d5 ./ultsensor.o
+ .debug_macro   0x00000000      0x2c7 ./ultsensor.o
+ .debug_macro   0x00000000       0xca ./ultsensor.o
+ .debug_macro   0x00000000       0xa3 ./ultsensor.o
+ .debug_macro   0x00000000       0x12 ./ultsensor.o
+ .debug_macro   0x00000000       0x1e ./ultsensor.o
+ .debug_macro   0x00000000      0x15b ./ultsensor.o
+ .debug_macro   0x00000000       0x42 ./ultsensor.o
+ .debug_macro   0x00000000       0x56 ./ultsensor.o
+ .debug_macro   0x00000000       0x9a ./ultsensor.o
+ .debug_macro   0x00000000       0x1c ./ultsensor.o
+ .debug_macro   0x00000000       0x6a ./ultsensor.o
+ .debug_macro   0x00000000       0x62 ./ultsensor.o
+ .debug_macro   0x00000000       0x40 ./ultsensor.o
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000      0x16c C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x7d5 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .bss           0x00000000        0x0 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .rodata        0x00000000        0x4 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000      0x12d C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0x16 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0x46 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0x1c C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0xca C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0xa3 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0x12 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0x1e C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000      0x15b C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0x42 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00000000       0x56 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .data          0x00000000        0x0 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000      0x874 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000      0x12d C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0xa0 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0x46 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0x1c C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0xca C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0xa3 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0x12 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0x1e C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000      0x15b C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0x42 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00000000       0x56 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000      0x874 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000      0x12d C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0x28 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0x46 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0x1c C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0xca C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0xa3 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0x12 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0x1e C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000      0x15b C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0x42 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00000000       0x56 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .group         0x00000000        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .data          0x00000000        0x0 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .bss           0x00000000        0x0 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000      0x874 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000      0x12d C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0x28 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0x46 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0x1c C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0xca C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0xa3 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0x12 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0x1e C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000      0x15b C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .debug_macro   0x00000000       0x42 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__ciob.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__ciob.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__ciob.o)
+ .rodata.__num_Ciob_streams
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__ciob.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_appexit.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_appexit.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_appexit.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_fflush.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_fflush.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_fflush.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+ .text.calloc   0x00000000       0x50 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+ .text.realloc  0x00000000       0x24 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .text.fprintf  0x00000000       0x30 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .text.printf_char
+                0x00000000       0x34 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .text.snprintf
+                0x00000000       0x68 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .text.vfprintf
+                0x00000000       0x1c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .text.vprintf  0x00000000       0x24 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .text.vsprintf
+                0x00000000       0x5c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fputs.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fputs.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fputs.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fseek.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fseek.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fseek.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(ftell.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(ftell.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(ftell.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text.no_fp_display
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text._fprintf
+                0x00000000       0x30 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text._printf_char
+                0x00000000       0x34 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text._sprintf
+                0x00000000       0x6c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text._snprintf
+                0x00000000       0x68 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text._vfprintf
+                0x00000000       0x20 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text._vprintf
+                0x00000000       0x24 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text._vsprintf
+                0x00000000       0x5c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text._vsnprintf
+                0x00000000       0x5c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text._printf  0x00000000       0x54 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strlen.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strlen.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strlen.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strncpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strncpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strncpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__init_alloc.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__init_alloc.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__init_alloc.o)
+ .text._init_alloc
+                0x00000000       0x14 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__init_alloc.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_sbrk.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_sbrk.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_sbrk.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_frexpl.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_frexpl.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_frexpl.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_ldexpl.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_ldexpl.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_ldexpl.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(errno.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(errno.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(errno.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_check_heap.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_check_heap.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_check_heap.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_hugeval.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_hugeval.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_hugeval.o)
+ .rodata.__huge_val
+                0x00000000        0x8 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_hugeval.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_drsub
+                0x00000000       0x1c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dneg
+                0x00000000        0x8 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2f
+                0x00000000       0x54 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2uiz
+                0x00000000       0x30 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2lz
+                0x00000000       0x6a c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2ulz
+                0x00000000       0x54 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__bhs_ul2d
+                0x00000000       0x88 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ui2d
+                0x00000000        0x8 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_l2d
+                0x00000000       0x18 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ul2d
+                0x00000000        0x8 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpgt
+                0x00000000       0x54 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpun
+                0x00000000       0x1a c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdcmple
+                0x00000000       0x24 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdrcmple
+                0x00000000       0x14 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x8 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0xa c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_flen.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_flen.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_flen.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_istty.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_istty.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_istty.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_seek.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_seek.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_seek.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_write.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_write.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_write.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/mb.o
+LOAD ./src/mbcrc.o
+LOAD ./src/mbfunccoils.o
+LOAD ./src/mbfuncdisc.o
+LOAD ./src/mbfuncinput.o
+LOAD ./src/mbfuncother.o
+LOAD ./src/mbrtu.o
+LOAD ./src/mbutils.o
+LOAD ./src/modbus.o
+LOAD ./src/portevent.o
+LOAD ./src/portserial.o
+LOAD ./src/porttimer.o
+LOAD ./include/mbfuncholding.o
+LOAD ./Sensors.o
+LOAD ./cr_startup_lpc17.o
+LOAD ./main.o
+LOAD ./ultsensor.o
+LOAD C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a
+LOAD C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a
+START GROUP
+LOAD c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a
+LOAD c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000     0x58b0
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc4 ./cr_startup_lpc17.o
+                0x00000000                g_pfnVectors
+                0x000000c4                . = ALIGN (0x4)
+                0x000000c4                __section_table_start = .
+                0x000000c4                __data_section_table = .
+                0x000000c4        0x4 LONG 0x58b0 LOADADDR (.data)
+                0x000000c8        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000cc        0x4 LONG 0x94 SIZEOF (.data)
+                0x000000d0        0x4 LONG 0x58b0 LOADADDR (.data_RAM2)
+                0x000000d4        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000d8        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000dc                __data_section_table_end = .
+                0x000000dc                __bss_section_table = .
+                0x000000dc        0x4 LONG 0x10000098 ADDR (.bss)
+                0x000000e0        0x4 LONG 0xc88 SIZEOF (.bss)
+                0x000000e4        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000e8        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000ec                __bss_section_table_end = .
+                0x000000ec                __section_table_end = .
+ *(.after_vectors*)
+ *(.text*)
+ .text.eMBInit  0x000000ec       0xf8 ./src/mb.o
+                0x000000ec                eMBInit
+ .text.eMBEnable
+                0x000001e4       0x38 ./src/mb.o
+                0x000001e4                eMBEnable
+ .text.eMBPoll  0x0000021c      0x174 ./src/mb.o
+                0x0000021c                eMBPoll
+ .text.usMBCRC16
+                0x00000390       0x6c ./src/mbcrc.o
+                0x00000390                usMBCRC16
+ .text.eMBFuncReadCoils
+                0x000003fc      0x100 ./src/mbfunccoils.o
+                0x000003fc                eMBFuncReadCoils
+ .text.eMBFuncWriteCoil
+                0x000004fc       0xa8 ./src/mbfunccoils.o
+                0x000004fc                eMBFuncWriteCoil
+ .text.eMBFuncWriteMultipleCoils
+                0x000005a4       0xd0 ./src/mbfunccoils.o
+                0x000005a4                eMBFuncWriteMultipleCoils
+ .text.eMBFuncReadDiscreteInputs
+                0x00000674      0x100 ./src/mbfuncdisc.o
+                0x00000674                eMBFuncReadDiscreteInputs
+ .text.eMBFuncReadInputRegister
+                0x00000774       0xe4 ./src/mbfuncinput.o
+                0x00000774                eMBFuncReadInputRegister
+ .text.eMBFuncReportSlaveID
+                0x00000858       0x38 ./src/mbfuncother.o
+                0x00000858                eMBFuncReportSlaveID
+ .text.eMBRTUInit
+                0x00000890       0x90 ./src/mbrtu.o
+                0x00000890                eMBRTUInit
+ .text.eMBRTUStart
+                0x00000920       0x20 ./src/mbrtu.o
+                0x00000920                eMBRTUStart
+ .text.eMBRTUStop
+                0x00000940       0x14 ./src/mbrtu.o
+                0x00000940                eMBRTUStop
+ .text.eMBRTUReceive
+                0x00000954       0x90 ./src/mbrtu.o
+                0x00000954                eMBRTUReceive
+ .text.eMBRTUSend
+                0x000009e4       0xc0 ./src/mbrtu.o
+                0x000009e4                eMBRTUSend
+ .text.xMBRTUReceiveFSM
+                0x00000aa4       0xc0 ./src/mbrtu.o
+                0x00000aa4                xMBRTUReceiveFSM
+ .text.xMBRTUTransmitFSM
+                0x00000b64       0xa4 ./src/mbrtu.o
+                0x00000b64                xMBRTUTransmitFSM
+ .text.xMBRTUTimerT35Expired
+                0x00000c08       0x78 ./src/mbrtu.o
+                0x00000c08                xMBRTUTimerT35Expired
+ .text.sys_get_cpu_clock
+                0x00000c80      0x160 ./src/mbutils.o
+                0x00000c80                sys_get_cpu_clock
+ .text.prveMBError2Exception
+                0x00000de0       0x3c ./src/mbutils.o
+                0x00000de0                prveMBError2Exception
+ .text.xMBPortEventInit
+                0x00000e1c       0x18 ./src/portevent.o
+                0x00000e1c                xMBPortEventInit
+ .text.xMBPortEventPost
+                0x00000e34       0x2c ./src/portevent.o
+                0x00000e34                xMBPortEventPost
+ .text.xMBPortEventGet
+                0x00000e60       0x3c ./src/portevent.o
+                0x00000e60                xMBPortEventGet
+ .text.NVIC_EnableIRQ
+                0x00000e9c       0x30 ./src/portserial.o
+ .text.Chip_Clock_IsMainPLLEnabled
+                0x00000ecc       0x24 ./src/portserial.o
+ .text.Chip_Clock_GetMainOscRate
+                0x00000ef0       0x14 ./src/portserial.o
+ .text.Chip_Clock_GetSYSCLKRate
+                0x00000f04       0x10 ./src/portserial.o
+                0x00000f04                Chip_Clock_GetSYSCLKRate
+ .text.Chip_Clock_GetMainPLLInClockRate
+                0x00000f14       0x10 ./src/portserial.o
+ .text.Chip_Clock_GetMainPLLOutClockRate
+                0x00000f24       0x54 ./src/portserial.o
+                0x00000f24                Chip_Clock_GetMainPLLOutClockRate
+ .text.Chip_Clock_IsMainPLLConnected
+                0x00000f78       0x24 ./src/portserial.o
+ .text.Chip_Clock_GetCPUClockSource
+                0x00000f9c       0x24 ./src/portserial.o
+                0x00000f9c                Chip_Clock_GetCPUClockSource
+ .text.Chip_Clock_GetMainClockRate
+                0x00000fc0       0x28 ./src/portserial.o
+                0x00000fc0                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetCPUClockDiv
+                0x00000fe8       0x1c ./src/portserial.o
+                0x00000fe8                Chip_Clock_GetCPUClockDiv
+ .text.Chip_Clock_GetSystemClockRate
+                0x00001004       0x18 ./src/portserial.o
+                0x00001004                Chip_Clock_GetSystemClockRate
+ .text.Chip_Clock_GetPCLKDiv
+                0x0000101c       0x88 ./src/portserial.o
+                0x0000101c                Chip_Clock_GetPCLKDiv
+ .text.Chip_UART_GetClkIndex
+                0x000010a4       0x50 ./src/portserial.o
+ .text.Chip_Clock_GetPeripheralClockRate
+                0x000010f4       0x28 ./src/portserial.o
+                0x000010f4                Chip_Clock_GetPeripheralClockRate
+ .text.Chip_UART_SetBaud
+                0x0000111c       0x7c ./src/portserial.o
+                0x0000111c                Chip_UART_SetBaud
+ .text.vMBPortSerialEnable
+                0x00001198       0x60 ./src/portserial.o
+                0x00001198                vMBPortSerialEnable
+ .text.xMBPortSerialInit
+                0x000011f8       0xec ./src/portserial.o
+                0x000011f8                xMBPortSerialInit
+ .text.xMBPortSerialPutByte
+                0x000012e4       0x30 ./src/portserial.o
+                0x000012e4                xMBPortSerialPutByte
+ .text.xMBPortSerialGetByte
+                0x00001314       0x24 ./src/portserial.o
+                0x00001314                xMBPortSerialGetByte
+ .text.UART2_IRQHandler
+                0x00001338       0x6c ./src/portserial.o
+                0x00001338                UART2_IRQHandler
+ .text.prvvUARTTxReadyISR
+                0x000013a4       0x14 ./src/portserial.o
+ .text.prvvUARTRxISR
+                0x000013b8       0x14 ./src/portserial.o
+ .text.NVIC_EnableIRQ
+                0x000013cc       0x30 ./src/porttimer.o
+ .text.NVIC_ClearPendingIRQ
+                0x000013fc       0x34 ./src/porttimer.o
+ .text.xMBPortTimersInit
+                0x00001430       0x80 ./src/porttimer.o
+                0x00001430                xMBPortTimersInit
+ .text.vMBPortTimersEnable
+                0x000014b0       0x2c ./src/porttimer.o
+                0x000014b0                vMBPortTimersEnable
+ .text.vMBPortTimersDisable
+                0x000014dc       0x14 ./src/porttimer.o
+                0x000014dc                vMBPortTimersDisable
+ .text.prvvTIMERExpiredISR
+                0x000014f0       0x14 ./src/porttimer.o
+ .text.TIMER0_IRQHandler
+                0x00001504       0x14 ./src/porttimer.o
+                0x00001504                TIMER0_IRQHandler
+ .text.eMBFuncWriteHoldingRegister
+                0x00001518       0x6c ./include/mbfuncholding.o
+                0x00001518                eMBFuncWriteHoldingRegister
+ .text.eMBFuncWriteMultipleHoldingRegister
+                0x00001584       0xb4 ./include/mbfuncholding.o
+                0x00001584                eMBFuncWriteMultipleHoldingRegister
+ .text.eMBFuncReadHoldingRegister
+                0x00001638       0xe0 ./include/mbfuncholding.o
+                0x00001638                eMBFuncReadHoldingRegister
+ .text.eMBFuncReadWriteMultipleHoldingRegister
+                0x00001718      0x154 ./include/mbfuncholding.o
+                0x00001718                eMBFuncReadWriteMultipleHoldingRegister
+ .text.InitADC  0x0000186c       0x58 ./Sensors.o
+                0x0000186c                InitADC
+ .text.MAGSEN   0x000018c4       0x80 ./Sensors.o
+                0x000018c4                MAGSEN
+ .text.MAGSEN_Task
+                0x00001944       0x38 ./Sensors.o
+                0x00001944                MAGSEN_Task
+ .text.Reset_Handler
+                0x0000197c       0x68 ./cr_startup_lpc17.o
+                0x0000197c                ResetISR
+                0x0000197c                Reset_Handler
+ .text.NMI_Handler
+                0x000019e4        0x8 ./cr_startup_lpc17.o
+                0x000019e4                NMI_Handler
+ .text.HardFault_Handler
+                0x000019ec        0x8 ./cr_startup_lpc17.o
+                0x000019ec                HardFault_Handler
+ .text.MemManage_Handler
+                0x000019f4        0x8 ./cr_startup_lpc17.o
+                0x000019f4                MemManage_Handler
+ .text.BusFault_Handler
+                0x000019fc        0x8 ./cr_startup_lpc17.o
+                0x000019fc                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00001a04        0x8 ./cr_startup_lpc17.o
+                0x00001a04                UsageFault_Handler
+ .text.DebugMon_Handler
+                0x00001a0c        0x8 ./cr_startup_lpc17.o
+                0x00001a0c                DebugMon_Handler
+ .text.IntDefaultHandler
+                0x00001a14        0x8 ./cr_startup_lpc17.o
+                0x00001a14                RIT_IRQHandler
+                0x00001a14                I2C0_IRQHandler
+                0x00001a14                PWM1_IRQHandler
+                0x00001a14                I2C1_IRQHandler
+                0x00001a14                EINT2_IRQHandler
+                0x00001a14                UART1_IRQHandler
+                0x00001a14                TIMER3_IRQHandler
+                0x00001a14                UART0_IRQHandler
+                0x00001a14                PLL0_IRQHandler
+                0x00001a14                CAN_IRQHandler
+                0x00001a14                PLL1_IRQHandler
+                0x00001a14                SSP0_IRQHandler
+                0x00001a14                I2S_IRQHandler
+                0x00001a14                I2C2_IRQHandler
+                0x00001a14                RTC_IRQHandler
+                0x00001a14                SPI_IRQHandler
+                0x00001a14                EINT1_IRQHandler
+                0x00001a14                TIMER1_IRQHandler
+                0x00001a14                ADC_IRQHandler
+                0x00001a14                SSP1_IRQHandler
+                0x00001a14                USB_IRQHandler
+                0x00001a14                BOD_IRQHandler
+                0x00001a14                WDT_IRQHandler
+                0x00001a14                QEI_IRQHandler
+                0x00001a14                EINT0_IRQHandler
+                0x00001a14                DMA_IRQHandler
+                0x00001a14                UART3_IRQHandler
+                0x00001a14                MCPWM_IRQHandler
+                0x00001a14                ENET_IRQHandler
+ .text.MODBUS_Task
+                0x00001a1c       0x68 ./main.o
+                0x00001a1c                MODBUS_Task
+ .text.main     0x00001a84       0x90 ./main.o
+                0x00001a84                main
+ .text.eMBRegInputCB
+                0x00001b14       0x88 ./main.o
+                0x00001b14                eMBRegInputCB
+ .text.eMBRegHoldingCB
+                0x00001b9c       0xf0 ./main.o
+                0x00001b9c                eMBRegHoldingCB
+ .text.eMBRegCoilsCB
+                0x00001c8c       0x2c ./main.o
+                0x00001c8c                eMBRegCoilsCB
+ .text.eMBRegDiscreteCB
+                0x00001cb8       0x1c ./main.o
+                0x00001cb8                eMBRegDiscreteCB
+ .text.NVIC_EnableIRQ
+                0x00001cd4       0x30 ./ultsensor.o
+ .text.NVIC_SetPriority
+                0x00001d04       0x54 ./ultsensor.o
+ .text.getPrescalarForUs
+                0x00001d58       0xa0 ./ultsensor.o
+                0x00001d58                getPrescalarForUs
+ .text.TIMER2_IRQHandler
+                0x00001df8       0x2c ./ultsensor.o
+                0x00001df8                TIMER2_IRQHandler
+ .text.delay_us
+                0x00001e24       0x28 ./ultsensor.o
+                0x00001e24                delay_us
+ .text.EINT3_IRQHandler
+                0x00001e4c       0x6c ./ultsensor.o
+                0x00001e4c                EINT3_IRQHandler
+ .text.ULTSEN_init
+                0x00001eb8       0xcc ./ultsensor.o
+                0x00001eb8                ULTSEN_init
+ .text.ULTSEN   0x00001f84       0xb4 ./ultsensor.o
+                0x00001f84                ULTSEN
+ .text.ULTSEN_Task
+                0x00002038       0x3c ./ultsensor.o
+                0x00002038                ULTSEN_Task
+ .text.SystemInit
+                0x00002074      0x138 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x00002074                SystemInit
+ .text          0x000021ac      0x12c C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+                0x000021ac                pxPortInitialiseStack
+                0x000021c8                vPortSVCHandler
+                0x000021e8                vPortStartFirstTask
+                0x000021f4                xPortStartScheduler
+                0x00002230                vPortEndScheduler
+                0x00002234                vPortYieldFromISR
+                0x00002244                vPortEnterCritical
+                0x0000225c                vPortExitCritical
+                0x00002274                xPortPendSVHandler
+                0x000022b0                xPortSysTickHandler
+ .text          0x000022d8      0xa70 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+                0x000022d8                xTaskGenericCreate
+                0x00002470                vTaskDelete
+                0x000024d8                uxTaskPriorityGet
+                0x000024f4                vTaskPrioritySet
+                0x0000258c                xTaskIsTaskSuspended
+                0x000025b0                vTaskResume
+                0x00002614                xTaskResumeFromISR
+                0x00002684                vTaskStartScheduler
+                0x000026cc                vTaskEndScheduler
+                0x000026e8                vTaskSuspendAll
+                0x000026fc                xTaskGetTickCount
+                0x00002714                xTaskGetTickCountFromISR
+                0x00002720                uxTaskGetNumberOfTasks
+                0x0000272c                vTaskIncrementTick
+                0x000027d0                xTaskResumeAll
+                0x000028a4                vTaskDelayUntil
+                0x00002924                vTaskDelay
+                0x000029d0                vTaskSwitchContext
+                0x00002a58                vTaskSuspend
+                0x00002b00                vTaskPlaceOnEventList
+                0x00002b58                xTaskRemoveFromEventList
+                0x00002bcc                vTaskSetTimeOutState
+                0x00002be0                xTaskCheckForTimeOut
+                0x00002c44                vTaskMissedYield
+                0x00002c54                uxTaskGetStackHighWaterMark
+                0x00002c80                xTaskGetCurrentTaskHandle
+                0x00002c8c                vTaskPriorityInherit
+                0x00002cfc                vTaskPriorityDisinherit
+ .text          0x00002d48      0x114 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+                0x00002d48                pvPortMalloc
+                0x00002e08                vPortFree
+                0x00002e4c                xPortGetFreeHeapSize
+                0x00002e58                vPortInitialiseBlocks
+ .text          0x00002e5c       0x9c C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+                0x00002e5c                vListInitialise
+                0x00002e74                vListInitialiseItem
+                0x00002e7c                vListInsertEnd
+                0x00002e98                vListInsert
+                0x00002ed4                vListRemove
+ .text.__assertion_failed
+                0x00002ef8       0x4c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o)
+                0x00002ef8                __assertion_failed
+ .text.__sys_appexit
+                0x00002f44        0xc c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_appexit.o)
+                0x00002f44                __sys_appexit
+                0x00002f44                __exit
+ .text.memcpy   0x00002f50        0x4 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+                0x00002f50                memcpy
+ .text.memset   0x00002f54        0x4 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+                0x00002f54                memset
+ .text._deferredlazyseek
+                0x00002f58       0x40 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o)
+                0x00002f58                _deferredlazyseek
+ .text.__flsbuf
+                0x00002f98      0x13e c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o)
+                0x00002f98                __flsbuf
+ .text._fflush  0x000030d6       0x54 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_fflush.o)
+                0x000030d6                _fflush
+ *fill*         0x0000312a        0x2 ff
+ .text._Cwritebuf
+                0x0000312c       0x68 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o)
+                0x0000312c                _Cwritebuf
+ .text.malloc   0x00003194       0xc8 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+                0x00003194                malloc
+ .text.free     0x0000325c       0x30 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+                0x0000325c                free
+ .text._Csys_alloc
+                0x0000328c       0x20 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+                0x0000328c                _Csys_alloc
+ .text.fp_round
+                0x000032ac       0x4c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .text.pr_dec.constprop.1
+                0x000032f8       0x26 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ *fill*         0x0000331e        0x2 ff
+ .text.sprintf  0x00003320       0x6c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+                0x00003320                sprintf
+ *fill*         0x0000338c        0x4 ff
+ .text.fp_display
+                0x00003390      0x8ec c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .text.vsnprintf
+                0x00003c7c       0x5c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+                0x00003c7c                vsnprintf
+ .text.printf   0x00003cd8       0x54 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+                0x00003cd8                printf
+ .text.fputs    0x00003d2c       0x2c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fputs.o)
+                0x00003d2c                fputs
+ .text.fseek    0x00003d58      0x100 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fseek.o)
+                0x00003d58                fseek
+ .text.ftell    0x00003e58       0x48 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(ftell.o)
+                0x00003e58                ftell
+ .text.__vfprintf
+                0x00003ea0      0xd28 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+                0x00003ea0                __vfprintf
+ .text.strlen   0x00004bc8       0x4a c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strlen.o)
+                0x00004bc8                strlen
+ .text.strncpy  0x00004c12       0x56 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strncpy.o)
+                0x00004c12                strncpy
+ .text._sbrk    0x00004c68       0x40 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_sbrk.o)
+                0x00004c68                _sbrk
+ .text._frexpl  0x00004ca8       0x5a c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_frexpl.o)
+                0x00004ca8                _frexpl
+ *fill*         0x00004d02        0x2 ff
+ .text._ldexpl  0x00004d04       0x4c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_ldexpl.o)
+                0x00004d04                _ldexpl
+ .text.__check_heap_overflow
+                0x00004d50       0x18 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_check_heap.o)
+                0x00004d50                __check_heap_overflow
+ .text.__aeabi_dmul
+                0x00004d68      0x110 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x00004d68                __aeabi_dmul
+ .text.__aeabi_ddiv
+                0x00004e78      0x138 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x00004e78                __aeabi_ddiv
+ .text.__aeabi_dsub
+                0x00004fb0      0x1a0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x00004fb0                __aeabi_dsub
+ .text.__aeabi_dadd
+                0x00005150      0x10c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x00005150                __aeabi_dadd
+ .text.__aeabi_d2iz
+                0x0000525c       0x40 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x0000525c                __aeabi_d2iz
+ .text.__bhs_ui2d
+                0x0000529c       0x46 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x0000529c                __bhs_ui2d
+ .text.__aeabi_i2d
+                0x000052e2       0x10 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x000052e2                __aeabi_i2d
+ .text.__aeabi_dcmpeq
+                0x000052f2       0x2c c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x000052f2                __aeabi_dcmpeq
+ .text.__aeabi_dcmplt
+                0x0000531e       0x54 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x0000531e                __aeabi_dcmplt
+ .text.__aeabi_dcmple
+                0x00005372       0x54 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x00005372                __aeabi_dcmple
+ .text.__aeabi_dcmpge
+                0x000053c6       0x54 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+                0x000053c6                __aeabi_dcmpge
+ .text.__aeabi_memcpy
+                0x0000541a       0x34 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+                0x0000541a                __aeabi_memcpy
+                0x00005424                __aeabi_memcpy8
+                0x00005424                __aeabi_memcpy4
+ .text.__aeabi_memset_lowlevel
+                0x0000544e       0x32 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+                0x0000544e                __aeabi_lowlevel_memset
+ .text.__sys_flen
+                0x00005480        0xc c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_flen.o)
+                0x00005480                __sys_flen
+ .text.__sys_istty
+                0x0000548c        0xc c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_istty.o)
+                0x0000548c                __sys_istty
+ .text.__sys_seek
+                0x00005498        0xc c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_seek.o)
+                0x00005498                __sys_seek
+ .text.__sys_write
+                0x000054a4        0xc c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_write.o)
+                0x000054a4                __sys_write
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x000054b0      0x200 ./src/mbcrc.o
+ .rodata        0x000056b0      0x114 ./src/mbrtu.o
+ .rodata        0x000057c4       0x46 ./main.o
+ *fill*         0x0000580a        0x2 ff
+ .rodata.str1.4
+                0x0000580c        0x8 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+                                  0x5 (size before relaxing)
+ .rodata.str1.1
+                0x00005814       0x15 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o)
+ .rodata.str1.1
+                0x00005829       0x18 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+ .rodata.str1.1
+                0x00005841       0x32 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+                                 0x35 (size before relaxing)
+ .rodata.str1.1
+                0x00005873       0x31 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+                                 0x38 (size before relaxing)
+ *fill*         0x000058a4        0x4 ff
+ .rodata.__huge_vall
+                0x000058a8        0x8 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_hugeval.o)
+                0x000058a8                __huge_vall
+                0x000058b0                . = ALIGN (0x4)
+
+.glue_7         0x000058b0        0x0
+ .glue_7        0x000058b0        0x0 linker stubs
+
+.glue_7t        0x000058b0        0x0
+ .glue_7t       0x000058b0        0x0 linker stubs
+
+.vfp11_veneer   0x000058b0        0x0
+ .vfp11_veneer  0x000058b0        0x0 linker stubs
+
+.v4_bx          0x000058b0        0x0
+ .v4_bx         0x000058b0        0x0 linker stubs
+
+.iplt           0x000058b0        0x0
+ .iplt          0x000058b0        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.rel.dyn        0x000058b0        0x0
+ .rel.iplt      0x000058b0        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000058b0                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000058b0                __exidx_end = .
+                0x000058b0                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x000058b0
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x94 load address 0x000058b0
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data          0x10000000       0x84 ./src/mb.o
+ .data          0x10000084        0x2 ./main.o
+ *fill*         0x10000086        0x2 ff
+ .data          0x10000088        0x4 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x10000088                SystemCoreClock
+ .data          0x1000008c        0x4 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .data          0x10000090        0x4 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+                0x10000094                . = ALIGN (0x4)
+                0x10000094                _edata = .
+
+.igot.plt       0x10000094        0x0 load address 0x00005944
+ .igot.plt      0x10000094        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.bss_RAM2       0x2007c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x10000098      0xc88
+                0x10000098                _bss = .
+ *(.bss*)
+ .bss           0x10000098       0x24 ./src/mb.o
+ .bss           0x100000bc       0x22 ./src/mbfuncother.o
+ *fill*         0x100000de        0x2 
+ .bss           0x100000e0        0xc ./src/mbrtu.o
+ .bss           0x100000ec        0x2 ./src/portevent.o
+ *fill*         0x100000ee        0x2 
+ .bss           0x100000f0        0x8 ./main.o
+ .bss           0x100000f8      0x100 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+                0x100000fc                pxCurrentTCB
+ .bss           0x100001f8      0x818 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .bss.__Ciob    0x10000a10      0x1e0 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__ciob.o)
+                0x10000a10                __Ciob
+ .bss.__heaps   0x10000bf0        0x4 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__init_alloc.o)
+                0x10000bf0                __heaps
+ .bss.__end_of_heap
+                0x10000bf4        0x4 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__init_alloc.o)
+                0x10000bf4                __end_of_heap
+ .bss.errno     0x10000bf8        0x4 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(errno.o)
+                0x10000bf8                errno
+ *(COMMON)
+ COMMON         0x10000bfc       0x14 ./src/mb.o
+                0x10000bfc                pxMBFrameCBTransmitterEmpty
+                0x10000c00                pxMBPortCBTimerExpired
+                0x10000c04                pxMBFrameCBByteReceived
+                0x10000c08                pxMBFrameCBTransmitFSMCur
+                0x10000c0c                pxMBFrameCBReceiveFSMCur
+ COMMON         0x10000c10      0x100 ./src/mbrtu.o
+                0x10000c10                ucRTUBuf
+ COMMON         0x10000d10        0x2 ./src/porttimer.o
+                0x10000d10                gusTimer3_5
+ *fill*         0x10000d12        0x2 
+ COMMON         0x10000d14        0xc ./main.o
+                0x10000d14                Ult
+                0x10000d20                . = ALIGN (0x4)
+                0x10000d20                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10000d20        0x0
+                0x10000d20                _noinit = .
+ *(.noinit*)
+                0x10000d20                . = ALIGN (0x4)
+                0x10000d20                _end_noinit = .
+                0x10000d20                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                [!provide]                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(SimpleDemo.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x6eb4
+ .debug_info    0x00000000      0x5e0 ./src/mb.o
+ .debug_info    0x000005e0      0x146 ./src/mbcrc.o
+ .debug_info    0x00000726      0x2f5 ./src/mbfunccoils.o
+ .debug_info    0x00000a1b      0x1d4 ./src/mbfuncdisc.o
+ .debug_info    0x00000bef      0x1c6 ./src/mbfuncinput.o
+ .debug_info    0x00000db5      0x242 ./src/mbfuncother.o
+ .debug_info    0x00000ff7      0x4b2 ./src/mbrtu.o
+ .debug_info    0x000014a9      0x61a ./src/mbutils.o
+ .debug_info    0x00001ac3      0x166 ./src/portevent.o
+ .debug_info    0x00001c29      0xfed ./src/portserial.o
+ .debug_info    0x00002c16      0x704 ./src/porttimer.o
+ .debug_info    0x0000331a      0x36c ./include/mbfuncholding.o
+ .debug_info    0x00003686      0x605 ./Sensors.o
+ .debug_info    0x00003c8b      0x1c4 ./cr_startup_lpc17.o
+ .debug_info    0x00003e4f      0x3f4 ./main.o
+ .debug_info    0x00004243      0xce3 ./ultsensor.o
+ .debug_info    0x00004f26      0x2e3 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_info    0x00005209      0x211 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_info    0x0000541a     0x1503 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_info    0x0000691d      0x300 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_info    0x00006c1d      0x297 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+
+.debug_abbrev   0x00000000     0x1b0c
+ .debug_abbrev  0x00000000      0x162 ./src/mb.o
+ .debug_abbrev  0x00000162       0x96 ./src/mbcrc.o
+ .debug_abbrev  0x000001f8       0xc1 ./src/mbfunccoils.o
+ .debug_abbrev  0x000002b9       0x93 ./src/mbfuncdisc.o
+ .debug_abbrev  0x0000034c       0x93 ./src/mbfuncinput.o
+ .debug_abbrev  0x000003df       0xae ./src/mbfuncother.o
+ .debug_abbrev  0x0000048d      0x136 ./src/mbrtu.o
+ .debug_abbrev  0x000005c3      0x186 ./src/mbutils.o
+ .debug_abbrev  0x00000749       0xaf ./src/portevent.o
+ .debug_abbrev  0x000007f8      0x36c ./src/portserial.o
+ .debug_abbrev  0x00000b64      0x1d5 ./src/porttimer.o
+ .debug_abbrev  0x00000d39       0xcd ./include/mbfuncholding.o
+ .debug_abbrev  0x00000e06      0x152 ./Sensors.o
+ .debug_abbrev  0x00000f58       0xde ./cr_startup_lpc17.o
+ .debug_abbrev  0x00001036      0x129 ./main.o
+ .debug_abbrev  0x0000115f      0x27a ./ultsensor.o
+ .debug_abbrev  0x000013d9       0xce C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_abbrev  0x000014a7      0x14e C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_abbrev  0x000015f5      0x2a3 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_abbrev  0x00001898      0x1ad C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_abbrev  0x00001a45       0xc7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+
+.debug_aranges  0x00000000      0x510
+ .debug_aranges
+                0x00000000       0x48 ./src/mb.o
+ .debug_aranges
+                0x00000048       0x20 ./src/mbcrc.o
+ .debug_aranges
+                0x00000068       0x30 ./src/mbfunccoils.o
+ .debug_aranges
+                0x00000098       0x20 ./src/mbfuncdisc.o
+ .debug_aranges
+                0x000000b8       0x20 ./src/mbfuncinput.o
+ .debug_aranges
+                0x000000d8       0x28 ./src/mbfuncother.o
+ .debug_aranges
+                0x00000100       0x58 ./src/mbrtu.o
+ .debug_aranges
+                0x00000158       0x40 ./src/mbutils.o
+ .debug_aranges
+                0x00000198       0x30 ./src/portevent.o
+ .debug_aranges
+                0x000001c8       0xd0 ./src/portserial.o
+ .debug_aranges
+                0x00000298       0x50 ./src/porttimer.o
+ .debug_aranges
+                0x000002e8       0x38 ./include/mbfuncholding.o
+ .debug_aranges
+                0x00000320       0x30 ./Sensors.o
+ .debug_aranges
+                0x00000350       0x70 ./cr_startup_lpc17.o
+ .debug_aranges
+                0x000003c0       0x48 ./main.o
+ .debug_aranges
+                0x00000408       0x60 ./ultsensor.o
+ .debug_aranges
+                0x00000468       0x28 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_aranges
+                0x00000490       0x20 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_aranges
+                0x000004b0       0x20 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_aranges
+                0x000004d0       0x20 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_aranges
+                0x000004f0       0x20 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+
+.debug_ranges   0x00000000      0x3d8
+ .debug_ranges  0x00000000       0x38 ./src/mb.o
+ .debug_ranges  0x00000038       0x10 ./src/mbcrc.o
+ .debug_ranges  0x00000048       0x20 ./src/mbfunccoils.o
+ .debug_ranges  0x00000068       0x10 ./src/mbfuncdisc.o
+ .debug_ranges  0x00000078       0x10 ./src/mbfuncinput.o
+ .debug_ranges  0x00000088       0x18 ./src/mbfuncother.o
+ .debug_ranges  0x000000a0       0x48 ./src/mbrtu.o
+ .debug_ranges  0x000000e8       0x30 ./src/mbutils.o
+ .debug_ranges  0x00000118       0x20 ./src/portevent.o
+ .debug_ranges  0x00000138       0xc0 ./src/portserial.o
+ .debug_ranges  0x000001f8       0x40 ./src/porttimer.o
+ .debug_ranges  0x00000238       0x28 ./include/mbfuncholding.o
+ .debug_ranges  0x00000260       0x20 ./Sensors.o
+ .debug_ranges  0x00000280       0x60 ./cr_startup_lpc17.o
+ .debug_ranges  0x000002e0       0x38 ./main.o
+ .debug_ranges  0x00000318       0x50 ./ultsensor.o
+ .debug_ranges  0x00000368       0x18 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_ranges  0x00000380       0x10 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_ranges  0x00000390       0x48 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+
+.debug_macro    0x00000000     0x3ed0
+ .debug_macro   0x00000000       0xe3 ./src/mb.o
+ .debug_macro   0x000000e3       0x10 ./src/mb.o
+ .debug_macro   0x000000f3      0x12d ./src/mb.o
+ .debug_macro   0x00000220       0x28 ./src/mb.o
+ .debug_macro   0x00000248       0x16 ./src/mb.o
+ .debug_macro   0x0000025e      0x5b2 ./src/mb.o
+ .debug_macro   0x00000810       0x2e ./src/mb.o
+ .debug_macro   0x0000083e       0x9a ./src/mb.o
+ .debug_macro   0x000008d8       0x7c ./src/mb.o
+ .debug_macro   0x00000954       0x6a ./src/mb.o
+ .debug_macro   0x000009be       0x22 ./src/mb.o
+ .debug_macro   0x000009e0       0x4e ./src/mbcrc.o
+ .debug_macro   0x00000a2e       0x1c ./src/mbcrc.o
+ .debug_macro   0x00000a4a      0x119 ./src/mbfunccoils.o
+ .debug_macro   0x00000b63       0xdd ./src/mbfuncdisc.o
+ .debug_macro   0x00000c40       0xe3 ./src/mbfuncinput.o
+ .debug_macro   0x00000d23       0xc5 ./src/mbfuncother.o
+ .debug_macro   0x00000de8       0xee ./src/mbrtu.o
+ .debug_macro   0x00000ed6       0xfe ./src/mbutils.o
+ .debug_macro   0x00000fd4       0x1c ./src/mbutils.o
+ .debug_macro   0x00000ff0      0x7d5 ./src/mbutils.o
+ .debug_macro   0x000017c5      0x2c7 ./src/mbutils.o
+ .debug_macro   0x00001a8c       0x8e ./src/portevent.o
+ .debug_macro   0x00001b1a      0x12c ./src/portserial.o
+ .debug_macro   0x00001c46       0x88 ./src/portserial.o
+ .debug_macro   0x00001cce       0xd4 ./src/porttimer.o
+ .debug_macro   0x00001da2       0x16 ./src/porttimer.o
+ .debug_macro   0x00001db8      0x135 ./include/mbfuncholding.o
+ .debug_macro   0x00001eed       0xf4 ./Sensors.o
+ .debug_macro   0x00001fe1       0x16 ./Sensors.o
+ .debug_macro   0x00001ff7       0x46 ./Sensors.o
+ .debug_macro   0x0000203d       0xca ./Sensors.o
+ .debug_macro   0x00002107       0xa3 ./Sensors.o
+ .debug_macro   0x000021aa       0x12 ./Sensors.o
+ .debug_macro   0x000021bc       0x1e ./Sensors.o
+ .debug_macro   0x000021da      0x15b ./Sensors.o
+ .debug_macro   0x00002335       0x42 ./Sensors.o
+ .debug_macro   0x00002377       0x56 ./Sensors.o
+ .debug_macro   0x000023cd       0x40 ./Sensors.o
+ .debug_macro   0x0000240d       0x52 ./cr_startup_lpc17.o
+ .debug_macro   0x0000245f      0x1a8 ./main.o
+ .debug_macro   0x00002607       0x6a ./main.o
+ .debug_macro   0x00002671       0x62 ./main.o
+ .debug_macro   0x000026d3       0x1c ./main.o
+ .debug_macro   0x000026ef       0x40 ./main.o
+ .debug_macro   0x0000272f      0x11f ./ultsensor.o
+ .debug_macro   0x0000284e      0x113 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00002961      0x880 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x000031e1      0x119 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x000032fa      0x874 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_macro   0x00003b6e      0x166 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00003cd4       0x16 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_macro   0x00003cea      0x10a C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_macro   0x00003df4       0xdc C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+
+.debug_line     0x00000000     0x44b5
+ .debug_line    0x00000000      0x322 ./src/mb.o
+ .debug_line    0x00000322      0x196 ./src/mbcrc.o
+ .debug_line    0x000004b8      0x27d ./src/mbfunccoils.o
+ .debug_line    0x00000735      0x218 ./src/mbfuncdisc.o
+ .debug_line    0x0000094d      0x20f ./src/mbfuncinput.o
+ .debug_line    0x00000b5c      0x226 ./src/mbfuncother.o
+ .debug_line    0x00000d82      0x305 ./src/mbrtu.o
+ .debug_line    0x00001087      0x31b ./src/mbutils.o
+ .debug_line    0x000013a2      0x1e9 ./src/portevent.o
+ .debug_line    0x0000158b      0x4b9 ./src/portserial.o
+ .debug_line    0x00001a44      0x303 ./src/porttimer.o
+ .debug_line    0x00001d47      0x22f ./include/mbfuncholding.o
+ .debug_line    0x00001f76      0x405 ./Sensors.o
+ .debug_line    0x0000237b      0x27e ./cr_startup_lpc17.o
+ .debug_line    0x000025f9      0x563 ./main.o
+ .debug_line    0x00002b5c      0x4d4 ./ultsensor.o
+ .debug_line    0x00003030      0x22a C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_line    0x0000325a      0x3e2 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_line    0x0000363c      0x68d C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_line    0x00003cc9      0x413 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_line    0x000040dc      0x3d9 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+
+.debug_str      0x00000000     0xebc6
+ .debug_str     0x00000000     0x4894 ./src/mb.o
+                               0x4956 (size before relaxing)
+ .debug_str     0x00004894       0x41 ./src/mbcrc.o
+                               0x3d1e (size before relaxing)
+ .debug_str     0x000048d5      0x340 ./src/mbfunccoils.o
+                               0x4960 (size before relaxing)
+ .debug_str     0x00004c15       0x99 ./src/mbfuncdisc.o
+                               0x4730 (size before relaxing)
+ .debug_str     0x00004cae       0xc9 ./src/mbfuncinput.o
+                               0x4757 (size before relaxing)
+ .debug_str     0x00004d77       0x8d ./src/mbfuncother.o
+                               0x46ba (size before relaxing)
+ .debug_str     0x00004e04      0x1fc ./src/mbrtu.o
+                               0x45e7 (size before relaxing)
+ .debug_str     0x00005000     0x4280 ./src/mbutils.o
+                               0x8628 (size before relaxing)
+ .debug_str     0x00009280       0x6f ./src/portevent.o
+                               0x4254 (size before relaxing)
+ .debug_str     0x000092ef      0xe02 ./src/portserial.o
+                               0x91a4 (size before relaxing)
+ .debug_str     0x0000a0f1      0x119 ./src/porttimer.o
+                               0x8622 (size before relaxing)
+ .debug_str     0x0000a20a      0x396 ./include/mbfuncholding.o
+                               0x4b5e (size before relaxing)
+ .debug_str     0x0000a5a0     0x1a33 ./Sensors.o
+                               0x9a4e (size before relaxing)
+ .debug_str     0x0000bfd3      0x14c ./cr_startup_lpc17.o
+                               0x3d18 (size before relaxing)
+ .debug_str     0x0000c11f      0xe72 ./main.o
+                               0xaa7f (size before relaxing)
+ .debug_str     0x0000cf91      0x2eb ./ultsensor.o
+                               0xaa25 (size before relaxing)
+ .debug_str     0x0000d27c      0x414 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                               0x7f89 (size before relaxing)
+ .debug_str     0x0000d690      0x4a7 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+                               0x9776 (size before relaxing)
+ .debug_str     0x0000db37      0xc06 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+                               0xa37a (size before relaxing)
+ .debug_str     0x0000e73d      0x442 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+                               0x9907 (size before relaxing)
+ .debug_str     0x0000eb7f       0x47 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+                               0x9252 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ./src/mb.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/mbcrc.o
+ .comment       0x0000006e       0x6f ./src/mbfunccoils.o
+ .comment       0x0000006e       0x6f ./src/mbfuncdisc.o
+ .comment       0x0000006e       0x6f ./src/mbfuncinput.o
+ .comment       0x0000006e       0x6f ./src/mbfuncother.o
+ .comment       0x0000006e       0x6f ./src/mbrtu.o
+ .comment       0x0000006e       0x6f ./src/mbutils.o
+ .comment       0x0000006e       0x6f ./src/portevent.o
+ .comment       0x0000006e       0x6f ./src/portserial.o
+ .comment       0x0000006e       0x6f ./src/porttimer.o
+ .comment       0x0000006e       0x6f ./include/mbfuncholding.o
+ .comment       0x0000006e       0x6f ./Sensors.o
+ .comment       0x0000006e       0x6f ./cr_startup_lpc17.o
+ .comment       0x0000006e       0x6f ./main.o
+ .comment       0x0000006e       0x6f ./ultsensor.o
+ .comment       0x0000006e       0x6f C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x0000006e       0x6f C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .comment       0x0000006e       0x6f C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .comment       0x0000006e       0x6f C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .comment       0x0000006e       0x6f C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__ciob.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_fflush.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fputs.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fseek.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(ftell.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strlen.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strncpy.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__init_alloc.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_sbrk.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_frexpl.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_ldexpl.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(errno.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_check_heap.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_hugeval.o)
+ .comment       0x0000006e       0x6f c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./src/mb.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/mbcrc.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/mbfunccoils.o
+ .ARM.attributes
+                0x00000099       0x33 ./src/mbfuncdisc.o
+ .ARM.attributes
+                0x000000cc       0x33 ./src/mbfuncinput.o
+ .ARM.attributes
+                0x000000ff       0x33 ./src/mbfuncother.o
+ .ARM.attributes
+                0x00000132       0x33 ./src/mbrtu.o
+ .ARM.attributes
+                0x00000165       0x33 ./src/mbutils.o
+ .ARM.attributes
+                0x00000198       0x33 ./src/portevent.o
+ .ARM.attributes
+                0x000001cb       0x33 ./src/portserial.o
+ .ARM.attributes
+                0x000001fe       0x33 ./src/porttimer.o
+ .ARM.attributes
+                0x00000231       0x33 ./include/mbfuncholding.o
+ .ARM.attributes
+                0x00000264       0x33 ./Sensors.o
+ .ARM.attributes
+                0x00000297       0x33 ./cr_startup_lpc17.o
+ .ARM.attributes
+                0x000002ca       0x33 ./main.o
+ .ARM.attributes
+                0x000002fd       0x33 ./ultsensor.o
+ .ARM.attributes
+                0x00000330       0x33 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x00000363       0x33 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .ARM.attributes
+                0x00000396       0x33 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .ARM.attributes
+                0x000003c9       0x33 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .ARM.attributes
+                0x000003fc       0x33 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+ .ARM.attributes
+                0x0000042f       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(_cr_assert.o)
+ .ARM.attributes
+                0x00000462       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__ciob.o)
+ .ARM.attributes
+                0x00000495       0x21 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_appexit.o)
+ .ARM.attributes
+                0x000004b6       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x000004e9       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x0000051c       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_deferredlazyseek.o)
+ .ARM.attributes
+                0x0000054f       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_fflush.o)
+ .ARM.attributes
+                0x00000582       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_writebuf.o)
+ .ARM.attributes
+                0x000005b5       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(alloc.o)
+ .ARM.attributes
+                0x000005e8       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fpprintf.o)
+ .ARM.attributes
+                0x0000061b       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fputs.o)
+ .ARM.attributes
+                0x0000064e       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(fseek.o)
+ .ARM.attributes
+                0x00000681       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(ftell.o)
+ .ARM.attributes
+                0x000006b4       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(printf.o)
+ .ARM.attributes
+                0x000006e7       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strlen.o)
+ .ARM.attributes
+                0x0000071a       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(strncpy.o)
+ .ARM.attributes
+                0x0000074d       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__init_alloc.o)
+ .ARM.attributes
+                0x00000780       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x000007b3       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_frexpl.o)
+ .ARM.attributes
+                0x000007e6       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_ldexpl.o)
+ .ARM.attributes
+                0x00000819       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(errno.o)
+ .ARM.attributes
+                0x0000084c       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_cr_check_heap.o)
+ .ARM.attributes
+                0x0000087f       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(_hugeval.o)
+ .ARM.attributes
+                0x000008b2       0x33 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(double.o)
+ .ARM.attributes
+                0x000008e5       0x21 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x00000906       0x21 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_flen.o)
+ .ARM.attributes
+                0x00000927       0x21 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_istty.o)
+ .ARM.attributes
+                0x00000948       0x21 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_seek.o)
+ .ARM.attributes
+                0x00000969       0x21 c:/nxp/mcuxpressoide_10.0.0_344/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_semihost.a(__sys_write.o)
+
+.debug_frame    0x00000000     0x1258
+ .debug_frame   0x00000000       0xec ./src/mb.o
+ .debug_frame   0x000000ec       0x38 ./src/mbcrc.o
+ .debug_frame   0x00000124       0x7c ./src/mbfunccoils.o
+ .debug_frame   0x000001a0       0x34 ./src/mbfuncdisc.o
+ .debug_frame   0x000001d4       0x34 ./src/mbfuncinput.o
+ .debug_frame   0x00000208       0x58 ./src/mbfuncother.o
+ .debug_frame   0x00000260      0x120 ./src/mbrtu.o
+ .debug_frame   0x00000380       0xd4 ./src/mbutils.o
+ .debug_frame   0x00000454       0x80 ./src/portevent.o
+ .debug_frame   0x000004d4      0x320 ./src/portserial.o
+ .debug_frame   0x000007f4       0xfc ./src/porttimer.o
+ .debug_frame   0x000008f0       0xa0 ./include/mbfuncholding.o
+ .debug_frame   0x00000990       0x7c ./Sensors.o
+ .debug_frame   0x00000a0c      0x120 ./cr_startup_lpc17.o
+ .debug_frame   0x00000b2c       0xf0 ./main.o
+ .debug_frame   0x00000c1c      0x15c ./ultsensor.o
+ .debug_frame   0x00000d78       0x50 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_frame   0x00000dc8       0xc0 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_frame   0x00000e88      0x2f4 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_frame   0x0000117c       0x70 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_frame   0x000011ec       0x6c C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
+
+.debug_loc      0x00000000      0xf15
+ .debug_loc     0x00000000       0x5f C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(port.o)
+ .debug_loc     0x0000005f      0xc45 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(tasks.o)
+ .debug_loc     0x00000ca4      0x22d C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(heap_2.o)
+ .debug_loc     0x00000ed1       0x44 C:\Users\sujee\Desktop\ARC\SJSU_Coursework\Spring_2017\295B\FreeRTOS_workfolder\SourceCode\FreeRTOS_workspac\FreeRTOS_Library\Debug\libFreeRTOS_Library.a(list.o)
