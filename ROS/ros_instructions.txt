@@ -1,0 +1,55 @@
+STEP 1: Installations
+
+ 1) Grizzly only runs on Ubuntu 14.xx versions so make sure that is what you are using
+ 2) Install ROS Indigo version based on the instructions here
+
+	http://wiki.ros.org/indigo/Installation/Ubuntu
+
+ 3) Install Grizzly robot which uses gazebo stack based on instructions here
+
+	http://wiki.ros.org/grizzly_simulator
+
+ 4) Pull git repo from link provided in document here to work with STEP 2
+
+	http://www.clearpathrobotics.com/guides/ros/Creating%20subscriber.html
+
+ 4.1) Changes to be made after cloning repo:
+	in catkin_ws/src/ros101/src/random_driver.cpp
+
+	ros::Publisher pub=nh.advertise<geometry_msgs::Twist>("/cmd_vel", 100); //find this line and change the topic which is in "___" to "/cmd_vel"
+
+	in catkin_ws/src/ros101/src/odom_graph.py
+	rospy.Subscriber("odom", Odometry, odomCB); //find this line and change the topic which is in "___" to "odom"		
+
+STEP 2: To Run ROS simulation:
+ 
+ Terminal 1:
+ - cd ~/catkin_ws
+ - catkin_make
+ - roslaunch grizzly_gazebo grizzly_empty_world
+
+ [A gazebo environment is setup with a stationary Grizzly robot]
+
+ Terminal 2:
+ - cd ~/catkin_ws
+ - source ~/catkin_ws/devel/setup.bash
+ - roslaunch grizzly_viz view_robot.launch
+
+ [Opens another window of the Grizzly which provides interactice capabilities]
+ [It is linked with the Grizzly in grizzly_empty_world]
+
+ Terminal 3:
+ - cd ~/catkin_ws
+ - source ~/catkin_ws/devel/setup.bash
+ - roslaunch ros101 odom_graph_test.launch
+
+ [The Grizzly will start to run based on the parameters that are provided whichever file the "odom_graph_test.launch" links to (currently it is random_driver.cpp)]
+ [A blank screen will simultaneously open that will track the movement of the robot in 2D plane]
+
+ Terminal 4:
+ - cd ~/catkin_ws
+ - source ~/catkin_ws/devel/setup.bash
+ - rostopic echo /cmd_vel
+
+ [The parameters that are being passed to the Grizzly are shown in this terminal]
+ [/cmd_vel is the topic that is currently configured, if there is any error then review the random_driver.cpp]
