@@ -1,0 +1,8 @@
+prefix=/home/osboxes/catkin_ws/install
+
+Name: ros101
+Description: Description of ros101
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/osboxes/catkin_ws/install/lib 
+Requires: 

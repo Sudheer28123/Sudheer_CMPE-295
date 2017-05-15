@@ -1,0 +1,2 @@
+- catkin_ws contains project which runs the random driver program.
+- Look up instructions to download ROS in ros instructions. The point at which it starts using catkin_ws, you can copy and paste this folder in /home/
